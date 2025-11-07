@@ -5,6 +5,12 @@
 Sorry, for friends only
 
 ## Publications
+Virkkunen, S., Granlund, T. & Kaikkonen, R., ”Implementing a Cost-Efficient and Interoperable Health Data Infrastructure: A Multi-Region Finnish Case Study”, Good Evaluation - Better Digital Health: Proceedings of the EFMI Special Topic Conference 2025. p. 113-117 5 p. (Studies in health technology and informatics). Oct 2025.
+
+Kaari, S., Granlund, T., & Kaikkonen, R. 2025. Towards Integrated and Intelligently Summarized Health Data. Presentation at WORK2025 Conference, August 20-22, 2025. In: WORK2025 Abstract Book. Turku: University of Turku. ISBN 978-952-02-0265-1 (e-book). Abstract 19.27.
+
+Virkkunen, S., Granlund, T., & Kaikkonen, R. 2025. Data Literacy in Healthcare: The Key to Effective AI and Improved Care. Presentation at WORK2025 Conference, August 20-22, 2025. In: WORK2025 Abstract Book. Turku: University of Turku. ISBN 978-952-02-0265-1 (e-book). Abstract 7.14.
+
 A. Linjama and T. Granlund, "Adopting Continuous Deployment in a Public Administration Project: An Industrial Case Study", in Product-Focused Software Process Improvement. Industry-, Workshop-, and Doctoral Symposium Papers. PROFES 2024. Lecture Notes in Computer Science, vol 15453. Springer, Cham. https://doi.org/10.1007/978-3-031-78392-0_6
 
 T. Granlund, V. Stirbu and T. Mikkonen, "Toward a Regulatory-Compliant Lifecycle for Artificial-Intelligence-Based Medical Devices in the European Union: Industry Perspectives," in Computer, vol. 57, no. 9, pp. 24-34, Sept. 2024, doi: 10.1109/MC.2024.3414368.
