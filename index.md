@@ -5,6 +5,9 @@
 Sorry, for friends only
 
 ## Publications
+Sirin O, Sami MA, Granlund T, Rasku J, Zhang Z, Abrahamsson P. Enhancing regulation-adherent requirement engineering with contextual AI: an industrial study. In: Product-focused software process improvement. Springer Nature Switzerland; 2026. p. 69–85.
+https://link.springer.com/chapter/10.1007/978-3-032-12092-2_5
+
 Virkkunen, S., Granlund, T. & Kaikkonen, R., ”Implementing a Cost-Efficient and Interoperable Health Data Infrastructure: A Multi-Region Finnish Case Study”, Good Evaluation - Better Digital Health: Proceedings of the EFMI Special Topic Conference 2025. p. 113-117 5 p. (Studies in health technology and informatics). Oct 2025.
 
 Kaari, S., Granlund, T., & Kaikkonen, R. 2025. Towards Integrated and Intelligently Summarized Health Data. Presentation at WORK2025 Conference, August 20-22, 2025. In: WORK2025 Abstract Book. Turku: University of Turku. ISBN 978-952-02-0265-1 (e-book). Abstract 19.27.
