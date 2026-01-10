@@ -5,6 +5,9 @@
 Sorry, for friends only
 
 ## Publications
+Linjama A, Granlund T. Continuous Deployment Adoption: Insights From a Public Sector Implementation. Journal of Software: Evolution and Process 38, no. 1 (2026): e70080. 
+https://doi.org/10.1002/smr.70080.
+
 Sirin O, Sami MA, Granlund T, Rasku J, Zhang Z, Abrahamsson P. Enhancing regulation-adherent requirement engineering with contextual AI: an industrial study. In: Product-focused software process improvement. Springer Nature Switzerland; 2026. p. 69–85.
 https://link.springer.com/chapter/10.1007/978-3-032-12092-2_5
 
